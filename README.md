@@ -1,6 +1,6 @@
 # GST Reconciliation Tool (Excel VBA)
 
-An Excel VBA-based GST reconciliation workflow that compares invoice-level data from GST portal records with accounting records exported from Books. It produces a detailed reconciliation report and a summary sheet to help users investigate exceptions.
+An Excel VBA-based GST reconciliation workflow that compares invoice-level data from GST portal records with accounting records exported from Books. It produces a detailed reconciliation report and a summary sheet to help users investigate exceptions. Use the AI assistant to generate the code which automate the reconciliation work. 
 
 > \*\*Important:\*\* This repository contains an exported VBA module (`.bas`), not a complete Excel workbook. To run it, import the module into a macro-enabled Excel workbook containing the two required input sheets. The module header attributes the tool to \*\*Chinmay Bhat\*\*; retain that attribution unless you have permission to change it.
 
